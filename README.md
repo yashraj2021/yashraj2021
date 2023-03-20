@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 💻 3rd Year Computer Engineering Student **@SPPU**
 
-- 🌱 I’m currently learning **HTML | CSS | JS**
+- 🌱 I’m currently learning **HTML | CSS | JS | JAVA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
