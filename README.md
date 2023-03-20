@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashraj2021" alt="yashraj2021" /></a> </p>-->
 
-- 💻 3rd Year Computer Engineering Student
+<p>💻 3rd Year Computer Engineering Student</p>
 
-- 🌱 I’m currently learning **HTML | CSS | JS | JAVA**
+<p>🌱 I’m currently learning <em><strong>HTML | CSS | JS | JAVA<strong></em></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
