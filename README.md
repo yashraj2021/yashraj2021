@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Yashraj Thelkar</h1>
+<h1 align="center">Hi There👋 I'm Yashraj Thelkar</h1>
 <h3 align="center">Aspiring Web Developer from India</h3>
 
 <img src="https://www.shootdartsolutions.com/img/service/web-design.gif" />
