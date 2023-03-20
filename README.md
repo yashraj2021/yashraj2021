@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2 align="center">Aspiring Web Developer 🧑‍💻 from India</h2>
 <h5 align="center">Learn | Apply | Grow</h5>
 
-<img src="https://www.shootdartsolutions.com/img/service/web-design.gif" />
+<img src="web-design.gif" />
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashraj2021" alt="yashraj2021" /></a> </p>-->
 
