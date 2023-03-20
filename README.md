@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi There👋 I'm Yashraj Thelkar</h1>
-<h3 align="center">Aspiring Web Developer from India</h3>
+<h2 align="center">Aspiring Web Developer 🧑‍💻 from India</h2>
+<h5 align="center">Learn | Apply | Grow</h5>
 
 <img src="https://www.shootdartsolutions.com/img/service/web-design.gif" />
 
