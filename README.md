@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hello there <img src="https://github.com/yashraj2021/yashraj2021/blob/main/hello.gif" height="40" width="40"/><br> I'm Yashraj Thelkar</h1>
+<h1 align="center">Hello there 👋<!-- <img src="https://github.com/yashraj2021/yashraj2021/blob/main/hello.gif" height="40" width="40"/>--><br> I'm Yashraj Thelkar</h1>
 <h2 align="center">Aspiring Web Developer 🧑‍💻 from India</h2>
 <h3 align="center">Learn | Apply | Grow</h3>
 
